@@ -72,7 +72,7 @@ Click OK and Test the Dashboard.
 
 ## 📊 Project Screenshots
 Tableau Dashboard
-![Dashboard Overview](DSRS applications email automation.png)
+![Dashboard Overview](DSRSimage.png)
 
 ##🚀 Testing the Email Service
 To manually test the API:
