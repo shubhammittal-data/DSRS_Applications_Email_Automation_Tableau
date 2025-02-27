@@ -72,7 +72,7 @@ Click OK and Test the Dashboard.
 
 ## 📊 Project Screenshots
 Tableau Dashboard
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](DSRS applications email automation.png)
 
 ##🚀 Testing the Email Service
 To manually test the API:
@@ -86,7 +86,7 @@ Check the email inbox for confirmation.
 
 ## 🚀 How to Use This Project
 ### **1️⃣ Access the Dashboard**
-🔗 **[View the Live Tableau Dashboard](https://public.tableau.com/your-dashboard-link)**
+🔗 **[View the Live Tableau Dashboard](https://public.tableau.com/views/DSRSApplicationsEmailAutomation/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ##🤝 Contributing
 ###Feel free to fork this repository and submit a pull request.
